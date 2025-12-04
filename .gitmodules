@@ -1,0 +1,6 @@
+[submodule "rust"]
+	path = rust
+	url = https://github.com/ohazard78/rust
+[submodule "technical_test"]
+	path = technical_test
+	url = https://github.com/ohazard78/technical_test
